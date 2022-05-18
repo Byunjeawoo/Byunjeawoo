@@ -1,10 +1,10 @@
 # Jaewoo Byun
-___
+
 ## Available Stack
 ### Server : Flask, Django
 ### App Develop : React-native
 ### Front : HTML, CSS, JavaScript
-___
+
 ## Award
 
 - 2020년 인천학생SW해커톤 챌린지 (인천광역시교육감상) 
@@ -12,7 +12,7 @@ ___
 - 제 1회 K-EDU 인공지능 창작 FEST (한국인공지능교육학회장상)
 - 대한민국 국회위원상 <표창장>
 
-___
+
 ## Project
 
 - Notion API를 활용해 학사일정을 캘린더로 정리해주는 기능 구현
@@ -31,7 +31,7 @@ ___
     - (책 정보, 주식, 게임 정보, 리로스쿨, 대학교 학사일정, 기사)
 - 디스코드 봇 개발(날씨, 코로나 현황, 주식 정보, 기사 등의 정보 제공)
 
-___
+
 ## Side 
 
 - 누적 방문수 53,000의 기술 블로그 운영 중(tistory)
