@@ -15,6 +15,7 @@
 
 ## Project
 
+- React Native를 이용한 인하대 동아리 통합 앱 제작 (진행중)
 - Notion API를 활용해 학사일정을 캘린더로 정리해주는 기능 구현
     - [https://everytime.kr/374914/v/228993829](https://everytime.kr/374914/v/228993829)
 - Google Classroom API를 활용해 학교 선생님들의 출석체크, 과제 할당 간편화 기능 구현
