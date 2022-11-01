@@ -38,5 +38,3 @@
 
 - 누적 방문수 53,000의 기술 블로그 운영 중(tistory)
   - https://gimongstudy.tistory.com/
-- 포트폴리오 사이트 (재작중)
-  - http://jaewoo.dothome.co.kr/
