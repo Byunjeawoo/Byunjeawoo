@@ -5,9 +5,6 @@
 ### App Develop : React-native
 ### Front : HTML, CSS, JavaScript
 
-![js][(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js][(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ## Award
 
 - 2020년 인천학생SW해커톤 챌린지 (인천광역시교육감상) 
